@@ -9,7 +9,7 @@
     "description": "",
     "autoload": {
         "psr-4": {
-            "Lysice\\HyperfRedisLock\\": "src/"
+            "Weijiajia\\HyperfRedisLock\\": "src/"
         }
     },
     "autoload-dev": {
@@ -42,7 +42,7 @@
     },
     "extra": {
         "hyperf": {
-            "config": "Lysice\\HyperfRedisLock\\ConfigProvider"
+            "config": "Weijiajia\\HyperfRedisLock\\ConfigProvider"
         }
     }
 }
